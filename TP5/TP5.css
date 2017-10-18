@@ -1,0 +1,131 @@
+body {
+    font-family: 'Pacifico', cursive;
+}
+
+.clearfix {
+    overflow: hidden;
+}
+
+ul {
+    overflow: hidden
+}
+
+li {
+    color: red;
+    font-size: 10px-
+}
+
+h2,
+h3,
+h5,
+h6 {
+    color: #AA1A1A;
+}
+
+p {
+    padding: 35px;
+    color: rgb(19, 6, 59);
+    font-size: 20px;
+}
+
+h1 {
+    padding: 5px 5px;
+}
+
+body {
+    background-image: url("https://dcrazed.com/wp-content/uploads/2014/03/White-map-Background.jpg");
+    background-attachment: fixed;
+    background-position: left -300px;
+}
+
+body {
+    padding: 5px
+}
+
+h1 {
+    color: #AA1A1A;
+    font-size: 60px
+}
+
+header img,
+.titulo {
+    float: left;
+}
+
+ul {
+    width: 100%;
+    padding: 0;
+}
+
+ul li {
+    display: block;
+}
+
+ul li a {
+    float: left;
+    padding: 10px;
+}
+
+a {
+    color: grey
+}
+
+.div1 {
+    overflow: hidden;
+}
+
+.div1 h1 {
+    margin: 0 auto;
+    padding: 0;
+    text-align: left;
+    width: 80%;
+}
+
+.div1 img {
+    width: 20%;
+}
+
+h2 {
+    margin-bottom:
+}
+
+.sobremi {
+    overflow: hidden;
+}
+
+.sobremi p {
+    margin: 0;
+    padding: 0 0 0 3%;
+    float: left;
+    text-align: left;
+    width: 70%;
+    margin-bottom: 40px;
+}
+
+.sobremi img {
+    width: 25%;
+    float: left;
+}
+
+.deportes {
+    border: solid 5px black;
+}
+
+h4 {
+    margin: 0 0 30px 0;
+}
+
+article h3 {
+    color: black;
+    padding: 0 20px;
+    margin: 0;
+}
+
+article img {
+    max-width: 100%;
+}
+
+article {
+    width: 33.333%;
+    float: left;
+}

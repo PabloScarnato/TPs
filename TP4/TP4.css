@@ -1,0 +1,54 @@
+ul {
+    overflow: hidden
+}
+
+li {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px-
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #42C942;
+    font-family: Courier New, Courier, monospace
+}
+
+p {
+    padding: 35px;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px
+}
+
+h1 {
+    background: #4228D3;
+    padding: 10px 5px;
+    border: solid 1px
+}
+
+body {
+    background-image: url("https://media.architecturaldigest.com/photos/5699802bc6772b7614567435/2:1/w_2560/new-york-city-guide.jpg");
+    background-attachment: fixed;
+}
+
+body {
+    padding: 5px
+}
+
+ul {
+    width: 100%;
+    padding: 0;
+}
+
+ul li {
+    display: block;
+}
+
+ul li a {
+    float: left;
+    padding: 10px;
+}
